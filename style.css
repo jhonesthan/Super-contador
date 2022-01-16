@@ -1,0 +1,38 @@
+body{
+    background: rgb(0, 0, 0);
+    font: normal 15pt arial;
+}
+header{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+section{
+    color: white;
+    background: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 4px 9px 7px rgb(61, 10, 90);
+}
+footer{
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+}
+input{
+    height: 30px;
+    width: 100px;
+    border-width: 3px;
+    border-style: inset;
+    text-align: center;
+    border-radius: 8px;
+}
+#contar{
+    height: 40px;
+    width: 150px;
+    background-color: rgb(61, 10, 90);
+    text-align: center;
+    font-family: cursive;
+    font-size: unset;
+}
